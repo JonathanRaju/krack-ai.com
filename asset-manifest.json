@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krack-ai.com/static/css/main.227d8c38.css",
+    "main.js": "/krack-ai.com/static/js/main.1908204c.js",
+    "static/js/453.9d8f169a.chunk.js": "/krack-ai.com/static/js/453.9d8f169a.chunk.js",
+    "index.html": "/krack-ai.com/index.html",
+    "main.227d8c38.css.map": "/krack-ai.com/static/css/main.227d8c38.css.map",
+    "main.1908204c.js.map": "/krack-ai.com/static/js/main.1908204c.js.map",
+    "453.9d8f169a.chunk.js.map": "/krack-ai.com/static/js/453.9d8f169a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.227d8c38.css",
+    "static/js/main.1908204c.js"
+  ]
+}
