@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.4c49b800.css",
-    "main.js": "./static/js/main.ec6eddb1.js",
-    "static/js/453.9d8f169a.chunk.js": "./static/js/453.9d8f169a.chunk.js",
-    "index.html": "./index.html",
-    "main.4c49b800.css.map": "./static/css/main.4c49b800.css.map",
-    "main.ec6eddb1.js.map": "./static/js/main.ec6eddb1.js.map",
-    "453.9d8f169a.chunk.js.map": "./static/js/453.9d8f169a.chunk.js.map"
+    "main.css": "/krack-ai.com/static/css/main.4c49b800.css",
+    "main.js": "/krack-ai.com/static/js/main.dd2d81e0.js",
+    "static/js/453.9d8f169a.chunk.js": "/krack-ai.com/static/js/453.9d8f169a.chunk.js",
+    "index.html": "/krack-ai.com/index.html",
+    "main.4c49b800.css.map": "/krack-ai.com/static/css/main.4c49b800.css.map",
+    "main.dd2d81e0.js.map": "/krack-ai.com/static/js/main.dd2d81e0.js.map",
+    "453.9d8f169a.chunk.js.map": "/krack-ai.com/static/js/453.9d8f169a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c49b800.css",
-    "static/js/main.ec6eddb1.js"
+    "static/js/main.dd2d81e0.js"
   ]
 }
